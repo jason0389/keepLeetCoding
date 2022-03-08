@@ -9,6 +9,6 @@ LeetCode
 </tr>
 <tr>
     <th>1</th>
-    <th><a href="https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array/">448. 找到所有数组中消失的数字</a></th>
+    <th><a target="_blank" href="https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array/">448. 找到所有数组中消失的数字</a></th>
 </tr>
 </table>
