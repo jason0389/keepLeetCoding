@@ -10,7 +10,7 @@ LeetCode
 </tr>
 <tr>
     <th>1</th>
-    <th>![简单](https://user-images.githubusercontent.com/6505374/157183008-a781be6a-05ff-4a57-80e7-a1b20fc35641.png)</th>
+    <th><img src="https://user-images.githubusercontent.com/6505374/157183008-a781be6a-05ff-4a57-80e7-a1b20fc35641.png"  alt="简单"  height="10" width="10" /></th>
     <th><a target="_blank" href="https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array/">448. 找到所有数组中消失的数字</a></th>
 </tr>
 </table>
